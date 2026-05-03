@@ -37,7 +37,7 @@ const About = () => {
 
               <div className="bg-[#0f172a] border border-gray-700 rounded-2xl p-4 shadow-lg">
                 <img
-                  src="src/public/anjali_profile.jpg"
+                  src="/anjali_profile.jpg"
                   alt="Anjali Sharma"
                   className="w-80 rounded-xl"
                 />
