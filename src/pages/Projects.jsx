@@ -20,24 +20,14 @@ const allProjects = [
     img: "https://images.unsplash.com/photo-1551434678-e076c223a692",
     live: "https://saas-demo-pink.vercel.app/",
   },
-  {
-    title: "Avengers Website (HTML + CSS)",
-    desc: "Static Avengers-themed website built using only HTML & CSS with responsive design.",
-    img: "https://images.unsplash.com/photo-1526378722484-bd91ca387e72",
-    live: "https://avengers-projects-html-css.vercel.app/",
-  },
+  
   {
     title: "Weather App (JavaScript)",
     desc: "Weather forecasting app using API integration with real-time data.",
     img: "https://images.unsplash.com/photo-1504608524841-42fe6f032b4b",
     live: "https://weather-project-lmbc.vercel.app/",
   },
-  {
-    title: "Online Library System",
-    desc: "Book management system with add, delete, and update functionality using React.",
-    img: "https://images.unsplash.com/photo-1512820790803-83ca734da794",
-    live: "#",
-  },
+  
 ];
 
 const Projects = () => {
